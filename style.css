@@ -12,11 +12,6 @@ body {
   background: #ffffff;
 }
 
-img {
-  display: block;
-  max-width: 100%;
-}
-
 .lp-container {
   max-width: 480px;
   margin: 0 auto;
@@ -261,6 +256,7 @@ img {
   width: 100%;
   height: 100%;
   object-fit: contain;
+  display: block;
 }
 
 .problem-card p {
@@ -346,6 +342,7 @@ img {
   width: 52px;
   height: 52px;
   object-fit: contain;
+  display: block;
 }
 
 .why-end {
@@ -438,6 +435,7 @@ img {
   width: 100%;
   height: 100%;
   object-fit: contain;
+  display: block;
 }
 
 .benefit-card-title {
